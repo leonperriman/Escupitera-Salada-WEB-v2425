@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Escupitera Salada -- Notas</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <script src="../js/bootstrap.bundle.min.js"></script>
+  </head>
+  <body>
+    <div class="alert alert-light" role="alert">
+      <input
+        class="btn btn-lg"
+        type="button"
+        onclick="history.back()"
+        name="volver atrás"
+        value="<" />
+      Semana del 2 de septiembre al 6 de septiembre 2024
+    </div>
+    <div class="container-md">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Lunes</th>
+            <th scope="col">Martes</th>
+            <th scope="col">Miercoles</th>
+            <th scope="col">Jueves</th>
+            <th scope="col">Viernes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td id="n-l"></td>
+            <td id="n-m"></td>
+            <td id="n-x"></td>
+            <td id="n-j"></td>
+            <td id="n-v"></td>
+            <td id="n-t"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <script src="../db.js"></script>
+    <script src="./semana_1.js"></script>
+  </body>
+</html>
