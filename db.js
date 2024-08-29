@@ -26,6 +26,12 @@ window.UsuariosEscupi = {
         V: 0,
       },
     },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
   },
   "lBarbero@escupiteraoficial.es": {
     password: "Le0n123",
@@ -39,6 +45,12 @@ window.UsuariosEscupi = {
         V: 0,
       },
     },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
   },
   "aBarbero@escupiteraoficial.es": {
     password: "1gkj7s20Dv7jbXh",
@@ -51,6 +63,12 @@ window.UsuariosEscupi = {
         J: 2,
         V: 2,
       },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
     },
   },
 };

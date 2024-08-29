@@ -67,6 +67,20 @@ alumnos.forEach((alumno) => {
   contador = contador + 1;
 });
 
+//negativos
+
+//console.log(usuario)
+const negativos = window.UsuariosEscupi[usuario].negativos;
+
+//document.getElementById("nombre3").innerHTML = usuario;
+
+// console.log(localStorage.getItem('usuario'));
+
+document.getElementById("td1").innerHTML = negativos["t1"];
+document.getElementById("td2").innerHTML = negativos["t2"];
+document.getElementById("td3").innerHTML = negativos["t3"];
+document.getElementById("td4").innerHTML = negativos["t4"];
+
 // console.log(localStorage.getItem('usuario'));
 
 // document.getElementById("n-l").innerHTML = notas["L"];
