@@ -76,10 +76,10 @@ const negativos = window.UsuariosEscupi[usuario].negativos;
 
 // console.log(localStorage.getItem('usuario'));
 
-document.getElementById("td1").innerHTML = negativos["t1"];
-document.getElementById("td2").innerHTML = negativos["t2"];
-document.getElementById("td3").innerHTML = negativos["t3"];
-document.getElementById("td4").innerHTML = negativos["t4"];
+document.getElementById("td-1").innerHTML = negativos["t1"];
+document.getElementById("td-2").innerHTML = negativos["t2"];
+document.getElementById("td-3").innerHTML = negativos["t3"];
+document.getElementById("td-4").innerHTML = negativos["t4"];
 
 // console.log(localStorage.getItem('usuario'));
 
