@@ -71,4 +71,118 @@ window.UsuariosEscupi = {
       t4: 0,
     },
   },
+  "agomez@escupiteraoficial.es": {
+    password: "icRMxxWPX4NL5T0",
+    name: "Adrián",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "gkhatchiperadze@escupiteraoficial.es": {
+    password: "zSBOagq27f1viX3",
+    name: "Giorgi",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "dchelebuga@escupiteraoficial.es": {
+    password: "N8rkOUWx8MKYf9q",
+    name: "Dragos",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "jangel@escupiteraoficial.es": {
+    password: "LbqaUCIJoj6h79a",
+    name: "Jesús",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "jteran@escupiteraoficial.es": {
+    password: "jgzP8QhPBk6VsGn",
+    name: "Jaime",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "ddlahoz@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Daniel",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
 };
