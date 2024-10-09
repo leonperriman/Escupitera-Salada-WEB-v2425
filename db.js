@@ -73,7 +73,7 @@ window.UsuariosEscupi = {
   },
   "agomez@escupiteraoficial.es": {
     password: "icRMxxWPX4NL5T0",
-    name: "Adrián",
+    name: "Adrián Gomez",
     notas: {
       semana_1: {
         L: 0,
@@ -149,7 +149,7 @@ window.UsuariosEscupi = {
   },
   "jteran@escupiteraoficial.es": {
     password: "jgzP8QhPBk6VsGn",
-    name: "Jaime",
+    name: "Jaime Terán",
     notas: {
       semana_1: {
         L: 0,
@@ -166,9 +166,142 @@ window.UsuariosEscupi = {
       t4: 0,
     },
   },
-  "ddlahoz@escupiteraoficial.es": {
+  "ddelahoz@escupiteraoficial.es": {
     password: "8oMSjzb8q2UyBSs",
     name: "Daniel",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "lcasuso@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Lucca",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "asainz@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Adrián Sainz",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "jbolado@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Jaime Bolado",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "dsaiz@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Diego",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "lsaiz@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Laro",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "ybailador@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Yerón",
+    notas: {
+      semana_1: {
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
+      },
+    },
+    negativos: {
+      t1: 0,
+      t2: 0,
+      t3: 0,
+      t4: 0,
+    },
+  },
+  "alopez@escupiteraoficial.es": {
+    password: "8oMSjzb8q2UyBSs",
+    name: "Álvaro",
     notas: {
       semana_1: {
         L: 0,
