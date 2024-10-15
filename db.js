@@ -57,11 +57,11 @@ window.UsuariosEscupi = {
     name: "Ares",
     notas: {
       semana_1: {
-        L: 2,
-        M: 2,
-        X: 2,
-        J: 2,
-        V: 2,
+        L: 0,
+        M: 0,
+        X: 0,
+        J: 0,
+        V: 0,
       },
     },
     negativos: {
@@ -186,7 +186,7 @@ window.UsuariosEscupi = {
     },
   },
   "lcasuso@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "rTffGMgk2FJDJRy",
     name: "Lucca",
     notas: {
       semana_1: {
@@ -205,7 +205,7 @@ window.UsuariosEscupi = {
     },
   },
   "asainz@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "3zXqDBFtZrNCfy7",
     name: "Adrián Sainz",
     notas: {
       semana_1: {
@@ -224,7 +224,7 @@ window.UsuariosEscupi = {
     },
   },
   "jbolado@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "nNWNMdMneiHitiN",
     name: "Jaime Bolado",
     notas: {
       semana_1: {
@@ -243,7 +243,7 @@ window.UsuariosEscupi = {
     },
   },
   "dsaiz@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "enkmadRnTbdeX2z",
     name: "Diego",
     notas: {
       semana_1: {
@@ -262,7 +262,7 @@ window.UsuariosEscupi = {
     },
   },
   "lsaiz@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "zrZQX4PXgkzpUXr",
     name: "Laro",
     notas: {
       semana_1: {
@@ -274,14 +274,14 @@ window.UsuariosEscupi = {
       },
     },
     negativos: {
-      t1: 0,
+      t1: 1,
       t2: 0,
       t3: 0,
       t4: 0,
     },
   },
   "ybailador@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "AxMTUi70XC5gz6k",
     name: "Yerón",
     notas: {
       semana_1: {
@@ -300,7 +300,7 @@ window.UsuariosEscupi = {
     },
   },
   "alopez@escupiteraoficial.es": {
-    password: "8oMSjzb8q2UyBSs",
+    password: "np9qrYQAjdPpZby",
     name: "Álvaro",
     notas: {
       semana_1: {
@@ -312,7 +312,7 @@ window.UsuariosEscupi = {
       },
     },
     negativos: {
-      t1: 0,
+      t1: 1,
       t2: 0,
       t3: 0,
       t4: 0,
